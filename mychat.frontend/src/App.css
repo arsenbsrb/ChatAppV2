@@ -1,0 +1,129 @@
+.title {
+  color: white;
+  margin-bottom: 30px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.lobbyInput {
+  margin-top: 5px;
+}
+
+.sweetyButton{
+  background-color: #16007A;
+  color: aliceblue;
+  border-style: none;
+  border-radius: 30px;
+  margin-top: 20px;
+  height: 35px;
+}
+
+.sendButton{
+  background-color: #16007A;
+  color: aliceblue;
+  border-style: none;
+  border-radius: 30px;
+  margin-top: 4px;
+  height: 35px;
+}
+
+Form Button {
+  width: 100%;
+}
+
+h2 {
+  color: #313131;
+}
+
+h6{
+  color: #8593FF;
+}
+
+.connectedTitle {
+  margin-top: 10px;
+  color: #8593FF;
+}
+
+.app {
+  margin: auto;
+  padding-top: 40px;
+  width: 950px;
+  text-align: center;
+}
+
+.lobby {
+  width: 400px;
+  margin: auto;
+}
+
+.chat {
+  display: grid;
+}
+
+.leave-room {
+  text-align: left;
+  margin-bottom: 4px;
+}
+
+.leaveButton {
+  height: 35px;
+  width: 200px;
+}
+
+
+
+.user-list {
+  float: left;
+  background-color: #1C2541;
+  color:white;
+  width: 200px;
+  height: 440px;
+  margin-right: 4px;
+  border: 0.1;
+  border-radius: 5px;
+}
+
+.message-container {
+  padding-top: 10px;
+  padding-left: 20px;
+  height: 400px;    
+  background-color: #1C2541;
+  overflow: auto;
+  border-radius: 5px;
+  margin-bottom: 2px;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none;  /* mozilla */
+}
+
+.user-message {
+  text-align: left;
+  padding-right: 5px;
+}
+
+.message {
+  display: inline-flex;
+  margin: 0px auto 0px auto;
+  /* padding: 3px; */
+  /* padding-left: 10px; */
+  padding-right: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  color: #8593FF;
+  /* background-color:#0B132B; */
+  border-radius: 30px;
+  margin-top: 3px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.from-user {
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-right: 11px;
+  color: #3122b3;
+  font-family: 'Nunito', sans-serif;
+}
+
+.message-container::-webkit-scrollbar {
+  display: none;  /* Safari and Chrome browsers */
+}
+
