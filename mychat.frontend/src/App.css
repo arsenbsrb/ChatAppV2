@@ -9,19 +9,11 @@
 }
 
 .sweetyButton{
-  background-color: #16007A;
-  color: aliceblue;
-  border-style: none;
-  border-radius: 30px;
   margin-top: 20px;
   height: 35px;
 }
 
 .sendButton{
-  background-color: #16007A;
-  color: aliceblue;
-  border-style: none;
-  border-radius: 30px;
   margin-top: 4px;
   height: 35px;
 }
@@ -76,7 +68,7 @@ h6{
   background-color: #1C2541;
   color:white;
   width: 200px;
-  height: 440px;
+  height: 400px;
   margin-right: 4px;
   border: 0.1;
   border-radius: 5px;

@@ -52,7 +52,7 @@ namespace ChatService.Hubs
         {
             var users = _connections.Values
                 .Where(c => c.Room == room)
-                .Select(c => c.User);
+                .Select(c => c.User);   
 
             return Clients.Group(room).SendAsync("UsersInRoom", users);
         }
