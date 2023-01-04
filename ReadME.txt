@@ -5,4 +5,4 @@ For the first launch:
 For strarting project:
 1) Start IIS Expres in VS
 2) Use this command in console (VS Code)
-> nmp start 
+> npm start 
