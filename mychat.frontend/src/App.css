@@ -94,13 +94,10 @@ h6{
 .message {
   display: inline-flex;
   margin: 0px auto 0px auto;
-  /* padding: 3px; */
-  /* padding-left: 10px; */
   padding-right: 10px;
   font-size: 17px;
   font-weight: bold;
   color: #8593FF;
-  /* background-color:#0B132B; */
   border-radius: 30px;
   margin-top: 3px;
   font-family: 'Nunito', sans-serif;
